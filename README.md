@@ -28,5 +28,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trim07&show_icons=true&locale=en&layout=compact" alt="trim07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trim07&" alt="trim07" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=trim07&show_icons=true&locale=en" alt="trim07" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=trim07&" alt="trim07" /></p>
 
