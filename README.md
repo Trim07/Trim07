@@ -11,8 +11,6 @@
 
 - 👯 I am currently part of A2R IT, where I develop projects focused on business management using integrations with SAP Bussines One **ReadyToWork**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/trimcolt/](https://www.linkedin.com/in/trimcolt/)
-
 - 📫 How to reach me **henrique24.cg@gmail.com**
 
 - ⚡ Fun fact **I redid the same project 6 times just for learning reasons**
