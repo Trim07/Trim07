@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trim07&theme=onedark" alt="trim07" /></a> </p>
 
-- 🔭 I am currently developing my own project, focusing on small business management. **EnocyES**
+- 🔭 I am currently developing my own project, focusing on small business management.
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **ABAP**
 
-- 👯 I am currently part of A2R IT, where I develop projects focused on business management using integrations with SAP Bussines One **ReadyToWork**
+- 👯 I am currently part of A2R IT, where I develop projects focused on business management using integrations with SAP Bussines One **ReadyTwoWork**
 
 - 📫 How to reach me **henrique24.cg@gmail.com**
-
-- ⚡ Fun fact **I redid the same project 6 times just for learning reasons**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
