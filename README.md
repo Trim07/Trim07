@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trim07&theme=onedark" alt="trim07" /></a> </p>
 
-- 🔭 I am currently developing my own project, focusing on small business management.
+- 🔭 I'm currently developing my own project, focusing on small business management.
 
-- 🌱 I’m currently learning **ABAP**
+- 🌱 I’m currently learning **FLUTTER**
 
-- 👯 I am currently part of A2R IT, where I develop projects focused on business management using integrations with SAP Bussines One **ReadyTwoWork**
+- 👯 I am currently part of A2R IT, where I develop projects focused on business management, using integrations with SAP Bussines One **ReadyTwoWork**
 
-- 📫 How to reach me **henrique24.cg@gmail.com**
+- 📫 How to reach me **henrique.garlach@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
